@@ -9,3 +9,4 @@
 - 🤔 I’m looking for help in learning machine learning and AI and it's applications in science.
 - 💬 Ask me about any python related issues, I'd be more than happy to help!
 - 📫 How to reach me: stevenhuynh788@gmail.com
+- ⬇️ Check out the projects that I have worked on below (more to come soon):
