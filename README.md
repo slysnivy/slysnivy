@@ -11,5 +11,5 @@
 - ✍🏻 I'm also taking the time to learn about machine learning for data analytics and analyzing biological data through edx
 - ⬇️ Check out the projects that I have worked on below (more to come soon):
 
-### NOTICE [As of February 12th 2024]
-I will be taking a break from my coding hobby from February 11th to around March 1st (or the end of February)
+### NOTICE [As of March 13th 2024]
+Unfortunately, I won't be coding on a near daily basis anymore as I have other life commitments now. I will hopefully still pursue my coding hobby during the weekends, if I have time. 
